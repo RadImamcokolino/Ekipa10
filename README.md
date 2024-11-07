@@ -10,9 +10,13 @@ To je projekt, ki ga delamo pri predmetu KIDS. Preučite pomen kibernetske varno
 ## Cilji seminarske naloge na temo "Kibernetska varnost in etični heking" so naslednji:
 
 **1.** Razložiti temeljne pojme kibernetske varnosti in vrste groženj, kot so phishing, ransomware in drugi napadi.
+
 **2.** Predstaviti vlogo etičnih hekerjev in razliko med "belim" in "črnim" klobukom v hekerskem svetu.
+
 **3.** Pregledati osnovna orodja za etični heking, kot sta Wireshark in Metasploit, ter njihovo uporabo pri testiranju varnosti.
+
 **4.** Obravnavati zakonske in etične smernice, ki jih morajo etični hekerji upoštevati.
+
 **5.** Izpostaviti sodobne izzive na področju varnosti, kot je zaščita IoT naprav, in pripraviti nekaj priporočil za uporabnike interneta.
 
 S temi cilji boste lahko zajeli vse bistvene vidike kibernetske varnosti in etičnega hekinga.
