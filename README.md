@@ -7,7 +7,7 @@ To je projekt, ki ga delamo pri predmetu KIDS. Preučite pomen kibernetske varno
 - [Obiščite našo Discord skupino](https://discord.gg/gdv8NCvr)
 - [Kul link lahko pogledate](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-##Cilji seminarske naloge na temo "Kibernetska varnost in etični heking" so naslednji:
+## Cilji seminarske naloge na temo "Kibernetska varnost in etični heking" so naslednji:
 
 **1.** Razložiti temeljne pojme kibernetske varnosti in vrste groženj, kot so phishing, ransomware in drugi napadi.
 **2.** Predstaviti vlogo etičnih hekerjev in razliko med "belim" in "črnim" klobukom v hekerskem svetu.
