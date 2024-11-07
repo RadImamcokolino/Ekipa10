@@ -1,13 +1,7 @@
 # Ekipa 10 projekt
 
-Kratek opis, kaj vaš projekt počne in kateri problem rešuje.
+To je projekt, ki ga delamo pri predmetu KIDS. Avtorji tega projekta so Aleks Maršnak, Luka Novak in Rok Petrič.
 
 ## Kazalo
-- [Namestitev](#namestitev)
-- [Uporaba](#uporaba)
-- [Funkcionalnosti](#funkcionalnosti)
-- [Prispevanje](#prispevanje)
-- [Licenca](#licenca)
-
-## Namestitev
-
+- [Obiščite GitHub](https://github.com)
+- [Obiščite našo Discord skupino](https://discord.gg/gdv8NCvr)
