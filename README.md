@@ -31,7 +31,7 @@ To je projekt, ki ga delamo pri predmetu KIDS. Preučite pomen kibernetske varno
 S temi cilji boste lahko zajeli vse bistvene vidike kibernetske varnosti in etičnega hekinga.
 
 ### Člani ekipe in naloge:
-- Aleks Maršnak: Raziskovanje napadov, priprava opisov.
+- Rok Petrič: Raziskovanje napadov, priprava opisov.
 - Luka Novak: Izdelava vizualnih gradiv, urejanje Wiki.
-- Rok Petrič: Dodajanje tehničnih primerov, organizacija repozitorija.
+- Aleks Maršnak: Dodajanje tehničnih primerov, organizacija repozitorija.
 
