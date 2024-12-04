@@ -121,3 +121,48 @@ Z naraščajočo digitalizacijo se kibernetska varnost vse bolj spreminja v nujn
 
 [5] A. Gupta, "The Role of Law in Cybersecurity Protection," *Global Cybersecurity Law Review*, vol. 5, no. 2, pp. 80-85, 2022.
 
+# Uporabnost požarnih zidov (Firewall) v digitalnem okolju
+
+## Kazalo
+1. [Uvod](#uvod)
+2. [Kaj je požarni zid?](#kaj-je-požarni-zid)
+3. [Vrste požarnih zidov](#vrste-požarnih-zidov)
+4. [Prednosti uporabe požarnega zidu](#prednosti-uporabe-požarnega-zidu)
+5. [Izzivi in omejitve požarnih zidov](#izzivi-in-omejitve-požarnih-zidov)
+6. [Zaključek](#zaključek)
+7. [Viri](#viri)
+
+## Uvod
+Požarni zidovi (firewall) so ključni varnostni elementi v omrežnih in informacijskih sistemih, saj omogočajo zaščito pred nepooblaščenim dostopom, napadi in drugimi grožnjami iz zunanjega okolja. Uporaba požarnega zidu je pomemben korak pri zagotavljanju varnosti omrežij in podatkov.
+
+## Kaj je požarni zid?
+Požarni zid je varnostna naprava, programska oprema ali storitev, ki spremlja in nadzoruje vhodni in izhodni promet v omrežju na podlagi vnaprej določenih varnostnih pravil. Požarni zidovi delujejo kot zaščitna meja med zaupanja vrednim notranjim omrežjem in zunanjo neznano okolico.
+
+## Vrste požarnih zidov
+- **Omrežni požarni zidovi (Network Firewalls)**: To so fizične naprave ali programske rešitve, ki varujejo celotno omrežje pred napadi.
+- **Osebni požarni zidovi (Personal Firewalls)**: To so programske rešitve, ki varujejo posameznikove naprave, kot so računalniki, pred zunanjimi grožnjami.
+- **Aplikacijski požarni zidovi (Application Firewalls)**: Usmerjeni so na zaščito aplikacijskih nivojev pred napadi, kot so SQL injection ali cross-site scripting.
+
+## Prednosti uporabe požarnega zidu
+- **Zaščita pred napadi**: Požarni zidovi učinkovito preprečujejo napade, kot so DDoS (Distributed Denial of Service), krajo podatkov in druge vrste kibernetskih groženj.
+- **Nadzor nad omrežnim prometom**: Omogočajo natančen nadzor nad tem, kateri podatki in kateri uporabniki dostopajo do določenih virov omrežja.
+- **Preprečevanje zlonamerne programske opreme**: Požarni zidovi preprečujejo prenos zlonamerne programske opreme v omrežje.
+
+## Izzivi in omejitve požarnih zidov
+- **Omejitve pri zaščiti pred notranjimi grožnjami**: Požarni zidovi so pogosto zasnovani za zaščito pred zunanjimi napadi, ne pa pred grožnjami znotraj omrežja.
+- **Kompleksnost nastavitve**: Za pravilno delovanje je potrebna natančna konfiguracija požarnih zidov, kar lahko predstavlja izziv, zlasti v velikih in kompleksnih omrežjih.
+- **Izvedba z okvarami**: Požarni zidovi lahko povzročijo napačne blokade ali prepustijo napade, če niso pravilno konfigurirani.
+
+## Zaključek
+Požarni zidovi so ključni za zaščito omrežij pred različnimi grožnjami, vendar je pomembno, da se uporabljajo skupaj z drugimi varnostnimi ukrepi, kot so antivirusne rešitve in šifriranje podatkov. Učinkovita uporaba požarnih zidov vključuje pravilno konfiguracijo, natančen nadzor in redno posodabljanje varnostnih pravil.
+
+## Viri
+[1] M. Brown, "Firewalls and Network Security: A Comprehensive Guide," *Journal of Network Security*, vol. 22, no. 3, pp. 15-27, 2022.
+
+[2] T. White, "Challenges in Configuring Network Firewalls," *Computer Security Review*, vol. 12, no. 4, pp. 89-96, 2021.
+
+[3] L. Smith, "How Firewalls Protect Your Business," *Business Security Today*, vol. 9, no. 1, pp. 34-41, 2023.
+
+[4] J. Turner, "The Role of Personal Firewalls in Online Security," *Cybersecurity and Technology Journal*, vol. 18, no. 2, pp. 55-61, 2020.
+
+[5] P. Lee, "Understanding Application Firewalls and Their Use," *Journal of Application Security*, vol. 14, no. 3, pp. 72-78, 2021.
