@@ -67,7 +67,14 @@ Umetna inteligenca ponuja številne prednosti za izobraževalni sistem, vendar p
 [6] P. Taylor, "The Role of AI in Personalized Learning," *Journal of Educational Innovation*, vol. 18, no. 2, pp. 115-121, 2021.
 
 # Kibernetska varnost: Zaščita podatkov in omrežij v digitalni dobi
-
+## Kazalo
+1. [Uvod](#uvod)
+2. [Pomembnost kibernetske varnosti](#pomembnost-kibernetske-varnosti)
+3. [Glavne vrste kibernetskih groženj](#glavne-vrste-kibernetskih-groženj)
+4. [Ukrepi za zaščito pred kibernetskimi grožnjami](#ukrepi-za-zaščito-pred-kibernetskimi-groženjami)
+5. [Pravo in zakonodaja kibernetske varnosti](#pravo-in-zakonodaja-kibernetske-varnosti)
+6. [Zaključek](#zaključek)
+7. [Viri](#viri)
 ## Uvod
 Kibernetska varnost je ključna za zaščito podatkov, omrežij in informacijskih sistemov pred napadi, zlorabami, krajo ali poškodbami. V današnjem digitalnem svetu, kjer je vse več podatkov shranjenih na spletnih strežnikih in v oblačnih sistemih, je zagotovitev kibernetske varnosti postala nujna tako za posameznike kot za organizacije.
 
