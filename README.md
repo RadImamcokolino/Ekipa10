@@ -37,6 +37,14 @@ S temi cilji boste lahko zajeli vse bistvene vidike kibernetske varnosti in eti�
 
 # Uporaba umetne inteligence v šolah
 
+## Kazalo
+1. [Uvod](#uvod)
+2. [Uporaba umetne inteligence za personalizacijo učenja](#uporaba-umetne-inteligence-za-personalizacijo-učenja)
+3. [Izzivi in etični pomisleki](#izzivi-in-etični-pomisleki)
+4. [Vpliv umetne inteligence na učitelje](#vpliv-umetne-inteligence-na-učitelje)
+5. [Zaključek](#zaključek)
+6. [Viri](#viri)
+
 ## Uvod
 Umetna inteligenca (UI) je tehnologija, ki se vse bolj uveljavlja v različnih sektorjih, vključno z izobraževalnim sistemom. V tem dokumentu bomo raziskali, kako umetna inteligenca vpliva na izobraževalni proces v šolah, kakšne prednosti prinaša in kakšni so izzivi njene uporabe.
 
@@ -67,6 +75,7 @@ Umetna inteligenca ponuja številne prednosti za izobraževalni sistem, vendar p
 [6] P. Taylor, "The Role of AI in Personalized Learning," *Journal of Educational Innovation*, vol. 18, no. 2, pp. 115-121, 2021.
 
 # Kibernetska varnost: Zaščita podatkov in omrežij v digitalni dobi
+
 ## Kazalo
 1. [Uvod](#uvod)
 2. [Pomembnost kibernetske varnosti](#pomembnost-kibernetske-varnosti)
@@ -75,6 +84,7 @@ Umetna inteligenca ponuja številne prednosti za izobraževalni sistem, vendar p
 5. [Pravo in zakonodaja kibernetske varnosti](#pravo-in-zakonodaja-kibernetske-varnosti)
 6. [Zaključek](#zaključek)
 7. [Viri](#viri)
+
 ## Uvod
 Kibernetska varnost je ključna za zaščito podatkov, omrežij in informacijskih sistemov pred napadi, zlorabami, krajo ali poškodbami. V današnjem digitalnem svetu, kjer je vse več podatkov shranjenih na spletnih strežnikih in v oblačnih sistemih, je zagotovitev kibernetske varnosti postala nujna tako za posameznike kot za organizacije.
 
