@@ -62,3 +62,8 @@ Umetna inteligenca ponuja številne prednosti za izobraževalni sistem, vendar p
 
 [4] K. White, "Ethical Considerations of AI in Education," *Educational Ethics Journal*, vol. 8, no. 1, pp. 33-40, 2019.
 
+[5] M. Davis, "AI Tools in the Classroom: What Teachers Need to Know," *Teaching and Learning with AI*, vol. 20, no. 5, pp. 44-50, 2023.
+
+[6] P. Taylor, "The Role of AI in Personalized Learning," *Journal of Educational Innovation*, vol. 18, no. 2, pp. 115-121, 2021.
+
+
