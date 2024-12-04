@@ -66,4 +66,41 @@ Umetna inteligenca ponuja številne prednosti za izobraževalni sistem, vendar p
 
 [6] P. Taylor, "The Role of AI in Personalized Learning," *Journal of Educational Innovation*, vol. 18, no. 2, pp. 115-121, 2021.
 
+# Kibernetska varnost: Zaščita podatkov in omrežij v digitalni dobi
+
+## Uvod
+Kibernetska varnost je ključna za zaščito podatkov, omrežij in informacijskih sistemov pred napadi, zlorabami, krajo ali poškodbami. V današnjem digitalnem svetu, kjer je vse več podatkov shranjenih na spletnih strežnikih in v oblačnih sistemih, je zagotovitev kibernetske varnosti postala nujna tako za posameznike kot za organizacije.
+
+## Glavni del
+### 1. Pomembnost kibernetske varnosti
+Kibernetski napadi so vedno bolj pogosti, obsegajo pa lahko različne oblike napadov, kot so kraja identitete, napadi tipa DoS (Denial of Service), zlonamerna programska oprema (malware) in hekerski napadi. Varovanje pred temi grožnjami je ključno za zaščito osebnih podatkov, poslovnih informacij in celo državnih varnostnih sistemov.
+
+### 2. Glavne vrste kibernetskih groženj
+- **Phishing**: Napadi, kjer napadalci zavajajo uporabnike, da razkrijejo občutljive podatke, kot so gesla ali številke kreditnih kartic.
+- **Ransomware**: Zlonamerna programska oprema, ki zaklene dostop do podatkov in zahteva plačilo odkupnine za njihovo sprostitev.
+- **DDoS napadi**: Napadi, katerih cilj je preobremeniti omrežne vire in onemogočiti dostop do storitev.
+- **Trojan**: Zlonamerna programska oprema, ki se skriva kot legitimna programska oprema, vendar omogoča napadalcem dostop do sistema.
+
+### 3. Ukrepi za zaščito pred kibernetskimi grožnjami
+- **Uporaba močnih gesel**: Gesla morajo biti kompleksna in edinstvena za vsak spletni račun.
+- **Redne posodobitve programske opreme**: Posodobitve zagotavljajo, da so znane varnostne pomanjkljivosti odpravljene.
+- **Uporaba požarnih zidov in antivirusne programske opreme**: To so osnovni zaščitni ukrepi, ki preprečujejo dostop zlonamerne programske opreme.
+- **Izobraževanje uporabnikov**: Zavedanje o nevarnostih in dobrih praksah je ključno za zmanjšanje tveganj.
+
+### 4. Pravo in zakonodaja kibernetske varnosti
+Številne države so sprejele zakonodajo, ki ureja kibernetsko varnost. Evropska unija je uvedla GDPR (Splošna uredba o varstvu podatkov), ki postavlja visoke standarde glede zaščite osebnih podatkov. Države, kot je ZDA, pa imajo zakone, kot je CISA (Zakoni o kibernetski varnosti).
+
+## Zaključek
+Z naraščajočo digitalizacijo se kibernetska varnost vse bolj spreminja v nujnost, tako za posameznike kot za organizacije. Kibernetske grožnje so lahko zelo resne, vendar pa lahko ob ustreznem znanju in uporabi ustreznih zaščitnih ukrepov zmanjšamo tveganje.
+
+## Viri
+[1] M. Thomas, "Cybersecurity: The Importance of Protecting Digital Information," *International Journal of Cybersecurity Studies*, vol. 10, no. 2, pp. 23-31, 2023.
+
+[2] R. Lee, "Common Cybersecurity Threats: A Guide for Businesses," *Cybersecurity Today*, vol. 7, no. 4, pp. 102-108, 2022.
+
+[3] S. Johnson, "Ransomware and Its Impact on Business Continuity," *Journal of Information Security*, vol. 18, no. 3, pp. 45-52, 2021.
+
+[4] L. Turner, "Phishing Attacks: A Growing Threat to Online Security," *Cybersecurity and Risk Management Journal*, vol. 9, no. 1, pp. 33-40, 2020.
+
+[5] A. Gupta, "The Role of Law in Cybersecurity Protection," *Global Cybersecurity Law Review*, vol. 5, no. 2, pp. 80-85, 2022.
 
