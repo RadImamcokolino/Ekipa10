@@ -88,26 +88,27 @@ Kibernetska varnost je ključna za zaščito otrok na spletu. Pomembno je, da se
 7. [Zaključek](#zaključek)
 8. [Viri](#viri)
 
+# Kibernetska varnost: Zaščita podatkov in omrežij v digitalni dobi
+
 ## Uvod
 Kibernetska varnost je ključna za zaščito podatkov, omrežij in informacijskih sistemov pred napadi, zlorabami, krajo ali poškodbami. V današnjem digitalnem svetu, kjer je vse več podatkov shranjenih na spletnih strežnikih in v oblačnih sistemih, je zagotovitev kibernetske varnosti postala nujna tako za posameznike kot za organizacije.
 
-## Glavni del
-### 1. Pomembnost kibernetske varnosti
+## Pomembnost kibernetske varnosti
 Kibernetski napadi so vedno bolj pogosti, obsegajo pa lahko različne oblike napadov, kot so kraja identitete, napadi tipa DoS (Denial of Service), zlonamerna programska oprema (malware) in hekerski napadi. Varovanje pred temi grožnjami je ključno za zaščito osebnih podatkov, poslovnih informacij in celo državnih varnostnih sistemov.
 
-### 2. Glavne vrste kibernetskih groženj
+## Glavne vrste kibernetskih groženj
 - **Phishing**: Napadi, kjer napadalci zavajajo uporabnike, da razkrijejo občutljive podatke, kot so gesla ali številke kreditnih kartic.
 - **Ransomware**: Zlonamerna programska oprema, ki zaklene dostop do podatkov in zahteva plačilo odkupnine za njihovo sprostitev.
 - **DDoS napadi**: Napadi, katerih cilj je preobremeniti omrežne vire in onemogočiti dostop do storitev.
 - **Trojan**: Zlonamerna programska oprema, ki se skriva kot legitimna programska oprema, vendar omogoča napadalcem dostop do sistema.
 
-### 3. Ukrepi za zaščito pred kibernetskimi grožnjami
+## Ukrepi za zaščito pred kibernetskimi grožnjami
 - **Uporaba močnih gesel**: Gesla morajo biti kompleksna in edinstvena za vsak spletni račun.
 - **Redne posodobitve programske opreme**: Posodobitve zagotavljajo, da so znane varnostne pomanjkljivosti odpravljene.
 - **Uporaba požarnih zidov in antivirusne programske opreme**: To so osnovni zaščitni ukrepi, ki preprečujejo dostop zlonamerne programske opreme.
 - **Izobraževanje uporabnikov**: Zavedanje o nevarnostih in dobrih praksah je ključno za zmanjšanje tveganj.
 
-### 4. Pravo in zakonodaja kibernetske varnosti
+## Pravo in zakonodaja kibernetske varnosti
 Številne države so sprejele zakonodajo, ki ureja kibernetsko varnost. Evropska unija je uvedla GDPR (Splošna uredba o varstvu podatkov), ki postavlja visoke standarde glede zaščite osebnih podatkov. Države, kot je ZDA, pa imajo zakone, kot je CISA (Zakoni o kibernetski varnosti).
 
 ## Zaključek
@@ -132,7 +133,7 @@ Z naraščajočo digitalizacijo se kibernetska varnost vse bolj spreminja v nujn
 5. [Pravo in zakonodaja kibernetske varnosti](#pravo-in-zakonodaja-kibernetske-varnosti)
 6. [Zaključek](#zaključek)
 7. [Viri](#viri)
-
+   
 # Uporabnost požarnih zidov (Firewall) v digitalnem okolju
 
 ## Uvod
