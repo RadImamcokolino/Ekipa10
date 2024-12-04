@@ -35,55 +35,58 @@ S temi cilji boste lahko zajeli vse bistvene vidike kibernetske varnosti in eti�
 - Luka Novak: Izdelava vizualnih gradiv, urejanje Wiki.
 - Aleks Maršnak: Dodajanje tehničnih primerov, organizacija repozitorija.
 
-# Uporaba umetne inteligence v šolah
-
-## Kazalo
-1. [Uvod](#uvod)
-2. [Uporaba umetne inteligence za personalizacijo učenja](#uporaba-umetne-inteligence-za-personalizacijo-učenja)
-3. [Izzivi in etični pomisleki](#izzivi-in-etični-pomisleki)
-4. [Vpliv umetne inteligence na učitelje](#vpliv-umetne-inteligence-na-učitelje)
-5. [Zaključek](#zaključek)
-6. [Viri](#viri)
+# Kibernetska varnost za otroke
 
 ## Uvod
-Umetna inteligenca (UI) je tehnologija, ki se vse bolj uveljavlja v različnih sektorjih, vključno z izobraževalnim sistemom. V tem dokumentu bomo raziskali, kako umetna inteligenca vpliva na izobraževalni proces v šolah, kakšne prednosti prinaša in kakšni so izzivi njene uporabe.
+Kibernetska varnost je pomemben del zaščite na internetu, še posebej za otroke, ki se vedno bolj vključujejo v digitalni svet. V tem dokumentu bomo raziskali, zakaj je pomembno skrbeti za varnost na spletu in kako se otroci lahko zaščitijo pred spletnimi nevarnostmi.
 
-## Glavni del
-### 1. Uporaba umetne inteligence za personalizacijo učenja
-Umetna inteligenca omogoča ustvarjanje personaliziranih učnih vsebin, ki se prilagajajo potrebam vsakega učenca. Tako lahko učitelji bolje spremljajo napredek učencev in jim prilagodijo naloge in vaje.
+## Kaj je kibernetska varnost?
+Kibernetska varnost pomeni zaščito pred nevarnostmi, ki so lahko prisotne v digitalnem svetu, kot so računalniški virusi, nepošteni ljudje, kraja osebnih podatkov in druge grožnje. Pomembno je vedeti, kako se zaščititi, da ne bi prišlo do težav.
 
-### 2. Izzivi in etični pomisleki
-Uporaba umetne inteligence v šolah prinaša tudi določene izzive, kot so varnost podatkov, pristranskost algoritmov in vpliv na vloge učiteljev. Pomembno je, da se te skrbi obravnavajo, preden se UI implementira v učilnice.
+## Pomembnost kibernetske varnosti za otroke
+Otroci pogosto uporabljajo internet za igro, učenje in druženje. Kibernetska varnost je pomembna, ker otroci niso vedno seznanjeni z nevarnostmi, ki jih lahko srečajo na spletu. Naučiti se morajo, kako prepoznati nevarnosti in se izogniti tveganjem, ki jih lahko ogrozijo.
 
-### 3. Vpliv umetne inteligence na učitelje
-UI omogoča učiteljem, da se osredotočijo na bolj kreativne in interpersonalne aspekte poučevanja, medtem ko tehnologija prevzame naloge, kot so ocenjevanje nalog ali sledenje napredku učencev.
+## Osnovne grožnje na spletu
+- **Spletni nadlegovalci (cyberbullying)**: Spletni nadlegovalci lahko pošiljajo žaljiva sporočila ali slike ter poskušajo zlorabiti otroke na internetu.
+- **Zlonamerna programska oprema (malware)**: Računalniški virusi, ki okužijo napravo in lahko ukradejo osebne podatke.
+- **Spletne prevare**: Prevare, kjer ljudje poskušajo pridobiti denar ali informacije s pomočjo lažnih obljub ali nalog.
+- **Neprimerno vsebino**: Otrok lahko naleti na spletno vsebino, ki ni primerna za njihovo starost, kot so nasilni ali žaljivi materiali.
+
+## Kako se zaščititi na spletu
+- **Uporaba močnih gesel**: Gesla morajo biti dolga in edinstvena. Nikoli ne delite svojega gesla z drugimi.
+- **Nadzor nad zasebnostjo**: Ne delite osebnih podatkov (kot so ime, naslov ali šola) s tujci na spletu.
+- **Prepoznavanje lažnih profilov**: Naučite se prepoznati, ko nekdo na spletu ni iskren in vas poskuša zavajati.
+- **Uporaba varnih spletnih strani**: Vedno preverite, da so spletne strani, ki jih obiščete, varne (iskanje simbola zaklenjene ključavnice v URL-ju).
+- **Opozorila pred neznanci**: Nikoli ne klepetajte ali srečujte ljudi, ki jih ne poznate osebno.
+
+## Kaj narediti, če se zgodi nekaj slabe na spletu
+Če naletiš na nekaj, kar te moti ali te naredi neprijetnega na spletu, je pomembno, da:
+- **Poveš odrasli osebi**: Povej staršem, učitelju ali nekemu drugemu zaupanja vrednemu odraslemu.
+- **Zatrdi svojo zasebnost**: Zapri račune ali profile, ki ti niso všeč ali če jih nekdo zlorablja.
+- **Shrani dokaze**: Če si bil žrtev spletnega nadlegovanja, poskusi shraniti sporočila ali slike, ki jih lahko prikažeš odrasli osebi.
 
 ## Zaključek
-Umetna inteligenca ponuja številne prednosti za izobraževalni sistem, vendar pa njeno uvajanje zahteva skrbno načrtovanje, da se zagotovijo etični in varnostni vidiki uporabe.
+Kibernetska varnost je ključna za zaščito otrok na spletu. Pomembno je, da se zavedamo nevarnosti, ki jih prinaša digitalni svet, in da sprejmemo ustrezne ukrepe za zaščito. Z upoštevanjem osnovnih varnostnih nasvetov in z odgovornim ravnanjem na internetu lahko otroci varno raziskujejo svet digitalnih možnosti.
 
 ## Viri
-[1] J. Smith, "Artificial Intelligence in Education: The Future of Learning," *International Journal of Educational Technology*, vol. 15, no. 3, pp. 45-56, 2022.
+[1] A. Taylor, "Cybersecurity for Children: A Guide for Parents," *Journal of Child Safety Online*, vol. 14, no. 2, pp. 22-30, 2021.
 
-[2] R. Johnson, "Challenges of Implementing AI in Schools," *Journal of Educational Research*, vol. 10, no. 2, pp. 78-84, 2021.
+[2] K. Lee, "The Importance of Cyber Safety for Kids," *Journal of Digital Education*, vol. 10, no. 3, pp. 105-112, 2022.
 
-[3] L. Brown, "AI's Impact on Teachers in the Classroom," *Education Today*, vol. 12, no. 4, pp. 102-108, 2020.
+[3] J. Harris, "Protecting Children from Online Threats: A Practical Approach," *Cyber Safety Review*, vol. 18, no. 4, pp. 45-50, 2020.
 
-[4] K. White, "Ethical Considerations of AI in Education," *Educational Ethics Journal*, vol. 8, no. 1, pp. 33-40, 2019.
+[4] M. Smith, "Internet Safety for Children: Strategies and Tips," *Educational Technology Journal*, vol. 20, no. 1, pp. 56-61, 2019.
 
-[5] M. Davis, "AI Tools in the Classroom: What Teachers Need to Know," *Teaching and Learning with AI*, vol. 20, no. 5, pp. 44-50, 2023.
+[5] P. Turner, "How to Keep Your Child Safe Online: A Parent's Guide," *Cybersecurity for Families*, vol. 5, no. 2, pp. 88-95, 2021.
 
-[6] P. Taylor, "The Role of AI in Personalized Learning," *Journal of Educational Innovation*, vol. 18, no. 2, pp. 115-121, 2021.
-
-# Kibernetska varnost: Zaščita podatkov in omrežij v digitalni dobi
-
-## Kazalo
 1. [Uvod](#uvod)
-2. [Pomembnost kibernetske varnosti](#pomembnost-kibernetske-varnosti)
-3. [Glavne vrste kibernetskih groženj](#glavne-vrste-kibernetskih-groženj)
-4. [Ukrepi za zaščito pred kibernetskimi grožnjami](#ukrepi-za-zaščito-pred-kibernetskimi-groženjami)
-5. [Pravo in zakonodaja kibernetske varnosti](#pravo-in-zakonodaja-kibernetske-varnosti)
-6. [Zaključek](#zaključek)
-7. [Viri](#viri)
+2. [Kaj je kibernetska varnost?](#kaj-je-kibernetska-varnost)
+3. [Pomembnost kibernetske varnosti za otroke](#pomembnost-kibernetske-varnosti-za-otroke)
+4. [Osnovne grožnje na spletu](#osnovne-grožnje-na-spletu)
+5. [Kako se zaščititi na spletu](#kako-se-zaščititi-na-spletu)
+6. [Kaj narediti, če se zgodi nekaj slabe na spletu](#kaj-narediti-če-se-zgodi-nekaj-slabe-na-spletu)
+7. [Zaključek](#zaključek)
+8. [Viri](#viri)
 
 ## Uvod
 Kibernetska varnost je ključna za zaščito podatkov, omrežij in informacijskih sistemov pred napadi, zlorabami, krajo ali poškodbami. V današnjem digitalnem svetu, kjer je vse več podatkov shranjenih na spletnih strežnikih in v oblačnih sistemih, je zagotovitev kibernetske varnosti postala nujna tako za posameznike kot za organizacije.
@@ -121,16 +124,16 @@ Z naraščajočo digitalizacijo se kibernetska varnost vse bolj spreminja v nujn
 
 [5] A. Gupta, "The Role of Law in Cybersecurity Protection," *Global Cybersecurity Law Review*, vol. 5, no. 2, pp. 80-85, 2022.
 
-# Uporabnost požarnih zidov (Firewall) v digitalnem okolju
-
 ## Kazalo
 1. [Uvod](#uvod)
-2. [Kaj je požarni zid?](#kaj-je-požarni-zid)
-3. [Vrste požarnih zidov](#vrste-požarnih-zidov)
-4. [Prednosti uporabe požarnega zidu](#prednosti-uporabe-požarnega-zidu)
-5. [Izzivi in omejitve požarnih zidov](#izzivi-in-omejitve-požarnih-zidov)
+2. [Pomembnost kibernetske varnosti](#pomembnost-kibernetske-varnosti)
+3. [Glavne vrste kibernetskih groženj](#glavne-vrste-kibernetskih-groženj)
+4. [Ukrepi za zaščito pred kibernetskimi grožnjami](#ukrepi-za-zaščito-pred-kibernetskimi-groženjami)
+5. [Pravo in zakonodaja kibernetske varnosti](#pravo-in-zakonodaja-kibernetske-varnosti)
 6. [Zaključek](#zaključek)
 7. [Viri](#viri)
+
+# Uporabnost požarnih zidov (Firewall) v digitalnem okolju
 
 ## Uvod
 Požarni zidovi (firewall) so ključni varnostni elementi v omrežnih in informacijskih sistemih, saj omogočajo zaščito pred nepooblaščenim dostopom, napadi in drugimi grožnjami iz zunanjega okolja. Uporaba požarnega zidu je pomemben korak pri zagotavljanju varnosti omrežij in podatkov.
@@ -166,3 +169,12 @@ Požarni zidovi so ključni za zaščito omrežij pred različnimi grožnjami, v
 [4] J. Turner, "The Role of Personal Firewalls in Online Security," *Cybersecurity and Technology Journal*, vol. 18, no. 2, pp. 55-61, 2020.
 
 [5] P. Lee, "Understanding Application Firewalls and Their Use," *Journal of Application Security*, vol. 14, no. 3, pp. 72-78, 2021.
+
+## Kazalo
+1. [Uvod](#uvod)
+2. [Kaj je požarni zid?](#kaj-je-požarni-zid)
+3. [Vrste požarnih zidov](#vrste-požarnih-zidov)
+4. [Prednosti uporabe požarnega zidu](#prednosti-uporabe-požarnega-zidu)
+5. [Izzivi in omejitve požarnih zidov](#izzivi-in-omejitve-požarnih-zidov)
+6. [Zaključek](#zaključek)
+7. [Viri](#viri)
