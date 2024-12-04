@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+    <title>Kibernetska varnost</title>
+</head>
+<body>
+    <header>
+        <a href="index.html" class="logo">CYBERSHIELD</a>
+        <div id="date" class="date"></div> 
+        <nav>
+            <a href="index.html" class="active"> Home</a>
+            <a href="varnost.html">Zaščita</a>
+            <a href="napadi.html">Napadi</a>
+            <a href="ucenje.html">Učenje</a>
+        </nav>
+        <button id="theme-toggle" class="btn">Bel/Temni Način</button> 
+    </header>
+    
+    <section class="home">
+        <div class="home-img">
+            <img src="tips-image.jpg" alt="">
+        </div>
+        <div class="home-content">
+            <h1>Kibernetska<span> Zaščita</span></h1>
+            <h3 class="typing-text">Nevarnosti</h3>
+            <p></p>
+            <div class="card">
+                <h2>Osnove kibernetske varnosti</h2>
+                <p class="card-text" id="card1-text">Kibernetska varnost je praksa zaščite računalniških sistemov, omrežij in podatkov pred škodljivimi napadi. To vključuje zaščito pred hekerji, virusi, in drugimi grožnjami, ki lahko ogrozijo varnost naših podatkov.<span id="more1" style="display:none;"> Zaščita pred temi grožnjami vključuje uporabo naprednih tehnologij, redno posodabljanje programske opreme, in ozaveščanje uporabnikov o varnostnih tveganjih.</span></p>
+                <button class="toggle-btn" onclick="toggleText('more1')">Prikaži več</button>
+            </div>
+    
+            <div class="card">
+                <h2>Vrste kibernetskih napadov</h2>
+                <p class="card-text" id="card2-text">Obstaja več vrst kibernetskih napadov, vključno s phishingom, malware-om, DDoS napadi in napadi z izsiljevanjem. Vsak napad ima svoje posebnosti in je lahko usmerjen proti posameznikom, podjetjem ali državnim institucijam.<span id="more2" style="display:none;"> Phishing vključuje uporabo prevarantskih e-poštnih sporočil, ki poskušajo pridobiti osebne podatke, medtem ko so DDoS napadi zasnovani za preobremenitev spletnih strežnikov, da postanejo nedostopni.</span></p>
+                <button class="toggle-btn" onclick="toggleText('more2')">Prikaži več</button>
+            </div>
+    
+            <div class="card">
+                <h2>Kako zaščititi svoje naprave</h2>
+                <p class="card-text" id="card3-text">Za zaščito pred kibernetskimi grožnjami je pomembno uporabljati močna gesla, redno posodabljati programsko opremo in uporabljati protivirusne programe. Prav tako je priporočljivo uporabljati dvostopenjsko avtentifikacijo za dodatno zaščito.<span id="more3" style="display:none;"> Varnostni nasveti vključujejo tudi izogibanje javnim Wi-Fi omrežjem za opravljanje občutljivih nalog in biti pozoren na morebitne zlonamerne povezave ali datoteke.</span></p>
+                <button class="toggle-btn" onclick="toggleText('more3')">Prikaži več</button>
+            </div>
+            <div class="social-icons">
+                <a href="#"><i class="fa-brands fa-linkedin"></i></a>
+                <a href="#"><i class="fa-brands fa-github"></i></a>
+                <a href="#"><i class="fa-brands fa-x-twitter"></i></a>
+                <a href="#"><i class="fa-brands fa-instagram"></i></a>
+            </div>
+            <a href="varnost.html" class="btn">Izvej več</a>
+        </div>
+    </section>
+
+    <script src="script.js"></script> 
+</body>
+</html>

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Kibernetska varnost</title>
+</head>
+<body>
+    <header>
+        <a href="index.html" class="logo">CYBERSHIELD</a>
+        <div id="date" class="date"></div> 
+        <nav>
+            <a href="index.html" class="active"> Home</a>
+            <a href="varnost.html">Zaščita</a>
+            <a href="napadi.html">Napadi</a>
+            <a href="ucenje.html">Učenje</a>
+        </nav>
+        <button id="theme-toggle" class="btn">Bel/Temni Način</button>
+    </header>
+    
+    <section class="home">
+        <div class="home-img">
+            <img src="main.jpg" alt="">
+        </div>
+        <div class="home-content">
+            <h1>Kibernetska <span>Zaščita</span></h1>
+            <h3 class="typing-text">Kako zaščititi svoje naprave</h3>
+            <p></p>
+            
+            <div class="card">
+                <h2>Zaščita pred spletnimi napadi</h2>
+                <p class="card-text" id="card4-text">Spletni napadi, kot so phishing in kraja identitete, so vedno pogostejši. Da bi se zaščitili, je pomembno biti previden pri odpiranju e-poštnih sporočil od neznanih pošiljateljev ter ne klikati na sumljive povezave.<span id="more4" style="display:none;"> Prav tako je priporočljivo uporabiti napreden protivirusni program in imeti stalno zaščito proti zlonamernim spletnim stranem.</span></p>
+                <button class="toggle-btn" onclick="toggleText('more4')">Prikaži več</button>
+            </div>
+            
+            <div class="card">
+                <h2>Varnost pri uporabi mobilnih naprav</h2>
+                <p class="card-text" id="card5-text">Mobilne naprave so tarča številnih napadov, saj vsebujejo občutljive podatke. Da bi se zaščitili, je priporočljivo nastaviti močno geslo, omogočiti biometrično avtentifikacijo ter redno posodabljati aplikacije.<span id="more5" style="display:none;"> Poleg tega je pomembno uporabljati varne aplikacije in biti previden pri prenosu datotek iz neznanih virov.</span></p>
+                <button class="toggle-btn" onclick="toggleText('more5')">Prikaži več</button>
+            </div>
+            
+            <div class="card">
+                <h2>Upravljanje gesel in zaščita</h2>
+                <p class="card-text" id="card6-text">Močna gesla so prvi korak pri zaščiti pred napadi. Uporaba dolgih gesel, ki vključujejo številke, črke in posebne znake, ter njihova redna menjava je ključnega pomena.<span id="more6" style="display:none;"> Prav tako je priporočljivo uporabljati upravitelje gesel, ki omogočajo enostavno shranjevanje in ustvarjanje kompleksnih gesel brez potrebe po pomnjenju vseh.</span></p>
+                <button class="toggle-btn" onclick="toggleText('more6')">Prikaži več</button>
+            </div>
+            <a href="napadi.html" class="btn">Izvej več</a>
+        </div>
+    </section>
+
+    <script src="script.js"></script> 
+</body>
+</html>

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Kibernetska varnost</title>
+</head>
+<body>
+    <header>
+        <a href="index.html" class="logo">CYBERSHIELD</a>
+        <div id="date" class="date"></div> 
+        <nav>
+            <a href="index.html" class="active"> Home</a>
+            <a href="varnost.html">Zaščita</a>
+            <a href="napadi.html">Napadi</a>
+            <a href="ucenje.html">Učenje</a>
+        </nav>
+        <button id="theme-toggle" class="btn">Bel/Temni Način</button>
+    </header>
+    
+    <section class="home">
+        <div class="home-content">
+            <h1>Učenje proti <span>Kibernetskih napadih</span></h1>
+            <h3 class="typing-text">Kako zaščititi svoje naprave</h3>
+            <p></p>
+            
+            <div class="card">
+                <h2>Kaj ponujamo</h2>
+                <p class="card-text" id="card1-text">Nudimo vrhunske tečaje in svetovanje na področju spletne varnosti. Naši strokovnjaki vam bodo pomagali zaščititi vaše naprave, omrežja in podatke pred hekerskimi napadi. Naučili vas bomo, kako prepoznati varnostne grožnje in kako se zaščititi pred najnovejšimi napadi, kot so ransomware, phishing in DDoS napadi.<span id="more1" style="display:none;"> Prav tako ponujamo tudi redno svetovanje za podjetja in individualno prilagojene varnostne rešitve.</span></p>
+                <button class="toggle-btn" onclick="toggleText('more1')">Prikaži več</button>
+            </div>
+            
+            <div class="card">
+                <h2>Kaj vas naučimo</h2>
+                <p class="card-text" id="card2-text">Na naših tečajih boste osvojili ključne varnostne veščine, kot so uporaba močnih gesel, zaščita osebnih podatkov, dvostopenjska avtentifikacija in pravilno ravnanje z občutljivimi informacijami. Naučili vas bomo tudi, kako prepoznati in se izogniti nevarnim spletnim povezavam ter kako uporabljati protivirusno programsko opremo za zaščito vaših naprav.<span id="more2" style="display:none;"> Prav tako vas bomo naučili, kako se izogniti napadom z izsiljevanjem in druge napade, ki ogrožajo vašo spletno varnost.</span></p>
+                <button class="toggle-btn" onclick="toggleText('more2')">Prikaži več</button>
+            </div>
+            
+            <div class="card">
+                <h2>Kje nas najdete</h2>
+                <p class="card-text" id="card3-text">Naša pisarna se nahaja na naslovu Kočevarjeva ulica 10, Maribor. Veseli bomo vašega obiska, kjer vam bomo osebno predstavili naše storitve in svetovali glede vaše spletne varnosti. Za več informacij ali naročanje na tečaje nas lahko kontaktirate preko telefona ali e-pošte.<span id="more3" style="display:none;"> Na voljo smo tudi za spletne posvete, če se nahajate na drugem delu Slovenije ali v tujini.</span></p>
+                <button class="toggle-btn" onclick="toggleText('more3')">Prikaži več</button>
+            
+                <!-- Google Maps Embed without API key -->
+                <div id="map-container" style="margin-top: 20px;">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1939.869665687666!2d15.63420123387843!3d46.559752664458955!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476f77b0cf9d7847%3A0xb5cc1e1dadc07a67!2sKo%C4%8Devarjeva%20ulica%2010%2C%202000%20Maribor!5e0!3m2!1ssl!2ssi!4v1733317833430!5m2!1ssl!2ssi" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div>
+            </div>    
+            <a href="#" class="btn">Oddaj prijavo za učenje</a>
+        </div>
+    </section>
+
+    <script src="script.js"></script> 
+</body>
+</html>
